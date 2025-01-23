@@ -13,7 +13,6 @@ Title: The Joss: A Reversion
 Author: Richard Marsh
 
 Release Date: April 05, 2021 [eBook #64997]
-[Last updated June 5, 2022]
 
 Language: English
 
@@ -1136,7 +1135,7 @@ but now that it had come I went queer all over. I had to catch hold of
 the counter to keep up straight. Miss Nichols, seeing how it was with
 me, whispered as she went past:
 
-“It’s all right, Pollie, don’t you worry, it’s nothing. Buck up, old
+“It’s all right, Pollie, don’t you worry, it’s nothing, Buck up, old
 girl.”
 
 It was nice of her to try to cheer me up; but there was a choking
@@ -1153,7 +1152,7 @@ beneath me. Everyone stared as I went past--I could have cried. They
 knew perfectly well that being summoned to the office during working
 hours meant trouble.
 
-Outside the office was Emily Purvis. I had been wondering if she would
+Outside the office was Emily Purvis, I had been wondering if she would
 be there, yet it was a shock to see her all the same. She was quite as
 much upset as I was. I knew that her nearest friends were down in
 Devonshire, and that she was not on the best of terms with them; so
@@ -1172,7 +1171,7 @@ for?”
 Pollie, it was not my fault that I was in late.”
 
 “So far as I know it was neither of our faults. I wonder if Tom got in
-all right.”
+all right”
 
 “Bother Tom! It’s very hard on me. I wonder if they’ll fine us?”
 
@@ -1373,7 +1372,7 @@ my office.”
 “A high hand! Mr. Slaughter thinks that he has only to lift his little
 finger to have us all turned into the street.”
 
-“If that is so, he is in error. Miss Blyth is my client. As her
+“If that is so, he is in error. Miss Blyth is my client As her
 solicitor I would advise you to be sure that you are treating her with
 justice.”
 
@@ -1449,7 +1448,7 @@ again. And now, Mr. Paine, where are you taking us to?”
 time, and require a little explanation, and there we shall have the
 necessary privacy.”
 
-It sounded mysterious, and I began to wonder more and more what he had
+It sounded mysterious and I began to wonder more and more what he had
 to say. I daresay I should have put my wonder into words, only just at
 that moment, who should I see, peeping at us round the corner of the
 street which we were passing, but the man who paid our bill at
@@ -1629,7 +1628,7 @@ really, know anything at all about him. My connection with him is
 rather an odd one. A little more than a week ago I received this
 package.” He held out a bundle of papers. “Its contents rather
 surprised me. Among other things was this letter, which, with your
-permission, I will read to you. ‘Great Ka Island, lat. 5° South;
+permission, I will read to you. ‘Great Ka Island. lat. 5° South;
 long. 134° East’--that is the heading of the letter; the address at
 which it purports to have been written. A curious one, you will
 perceive it is. There actually is such an island. It lies some three
@@ -1652,11 +1651,11 @@ the letter purports to be, is a distinct misfortune--it is undated.
 But I will read it, and then you yourself will see my point.
 
 
- “‘Dear Sir’, it runs, ‘I write to inform you that this morning, at
- 10.45, there died here, of enteric fever in my presence, Benjamin
- Batters. From what I have heard him say, I believe he was in his
- sixty-first year, though, latterly, he looked more, and was, at one
- time, of Little Endell Street, Westminster.’”
+“‘Dear Sir’, it runs, ‘I write to inform you that this morning, at
+10.45, there died here, of enteric fever in my presence, Benjamin
+Batters. From what I have heard him say, I believe he was in his
+sixty-first year, though, latterly, he looked more, and was, at one
+time, of Little Endell Street, Westminster.’”
 
 
 “That was where mother lived when she was a girl,” I interposed.
@@ -1664,23 +1663,23 @@ But I will read it, and then you yourself will see my point.
 Mr. Paine read on:
 
 
- “‘At his particular request I send you this intimation, together with
- the documents which you will find enclosed. Set apart from the world
- as here I am I cannot say when an opportunity will arise which will
- enable me to despatch you this, nor by what route it will reach you;
- but, by the mercy of an All-seeing Providence, I trust that it will
- reach you in the end.
+“‘At his particular request I send you this intimation, together with
+the documents which you will find enclosed. Set apart from the world
+as here I am I cannot say when an opportunity will arise which will
+enable me to despatch you this, nor by what route it will reach you;
+but, by the mercy of an All-seeing Providence, I trust that it will
+reach you in the end.
 
- “‘Mr. Batters suffered greatly towards the close; but he bore his
- sufferings with exemplary patience. He died, as he had lived, at peace
- with all men.
+“‘Mr. Batters suffered greatly towards the close; but he bore his
+sufferings with exemplary patience. He died, as he had lived, at peace
+with all men.
 
                        “‘I am, Dear Sir, your obedient servant,
                                 “‘Arthur Lennard, Missionary.
 
- “‘P.S.--I may add that I have just buried poor Batters, with Christian
- rites, as the shadows lengthened, in our little graveyard which is
- within hearing of the sea.’”
+“‘P.S.--I may add that I have just buried poor Batters, with Christian
+rites, as the shadows lengthened, in our little graveyard which is
+within hearing of the sea.’”
 
 
 Mr. Paine ceased; he looked at us, and we at him.
@@ -1789,14 +1788,14 @@ I gave him back the blue paper. He began to read. Emily came closer. I
 could feel that she was all of a flutter.
 
 
- “‘This is the last will and testament of me, Benjamin Batters.
+“‘This is the last will and testament of me, Benjamin Batters.
 
- “‘On condition that she does as I hereby direct I give and bequeath to
- my niece, Mary Blyth, the daughter of my sister, Mary Ann Batters, who
- married Augustus Blyth, and who when I last heard tell of her was
- assistant at Cardew & Slaughter’s, a life income of Four Hundred and
- Eighty Eight Pounds Nineteen Shillings and Sixpence a year, interest
- of my money invested in Consols.’”
+“‘On condition that she does as I hereby direct I give and bequeath to
+my niece, Mary Blyth, the daughter of my sister, Mary Ann Batters, who
+married Augustus Blyth, and who when I last heard tell of her was
+assistant at Cardew & Slaughter’s, a life income of Four Hundred and
+Eighty Eight Pounds Nineteen Shillings and Sixpence a year, interest
+of my money invested in Consols.’”
 
 
 Mr. Paine stopped.
@@ -1844,21 +1843,21 @@ what else can you want?”
 I wondered myself. But I was soon to know. Mr. Paine read on:
 
 
- “‘I give and bequeath the above to my niece, Mary Blyth, on these
- conditions. She is to live in the house at 84, Camford Street. She is
- never to sleep out of it. She is never to be away from it after nine
- o’clock at night or before nine o’clock in the morning. She is only to
- have one companion, and she must be a woman. They are to have no
- visitors, neither she nor her companion. She is to choose a companion,
- and stick to her. If the companion dies, or leaves her, she is not to
- have another. She is afterwards to live in the house alone. She is not
- to let any woman, except her companion, enter the house. She is not to
- allow any man, under any circumstances whatever, to come inside the
- house, or to cross the doorstep. These are my wishes and orders. If
- she disobeys any one of them, then may my curse light on her, and I
- will see that it does, and the house, and the income, and everything,
- is to be taken from her, and given to the Society for Befriending
- Sailors.
+“‘I give and bequeath the above to my niece, Mary Blyth, on these
+conditions. She is to live in the house at 84, Camford Street. She is
+never to sleep out of it. She is never to be away from it after nine
+o’clock at night or before nine o’clock in the morning. She is only to
+have one companion, and she must be a woman. They are to have no
+visitors, neither she nor her companion. She is to choose a companion,
+and stick to her. If the companion dies, or leaves her, she is not to
+have another. She is afterwards to live in the house alone. She is not
+to let any woman, except her companion, enter the house. She is not to
+allow any man, under any circumstances whatever, to come inside the
+house, or to cross the doorstep. These are my wishes and orders. If
+she disobeys any one of them, then may my curse light on her, and I
+will see that it does, and the house, and the income, and everything,
+is to be taken from her, and given to the Society for Befriending
+Sailors.
 
                                     “‘Signed, Benjamin Batters.’”
 
@@ -1994,15 +1993,15 @@ steel chain; at one end of the chain was a padlock. Attached to the
 handle of the key was a kind of flying label; on it this was written:
 
 
- “To Mary Blyth. This is the key of 84, Camford Street. The lock is
- high up on the left-hand side of the door. There is no keyhole. You
- will see a green spot. Press the key against the spot and it will
- enter the lock. Push home as far as it will go, then jerk upwards, and
- the door will open. Don’t try to enter when anyone is looking.
- Directly you get it, tear off this label and burn it. Then pass the
- chain about your waist, underneath your dress, and snap the padlock.
- If you lose the key, or let it go for a moment from your possession,
- may the gods burn up the marrow in your bones. And they will.”
+“To Mary Blyth. This is the key of 84, Camford Street. The lock is
+high up on the left-hand side of the door. There is no keyhole. You
+will see a green spot. Press the key against the spot and it will
+enter the lock. Push home as far as it will go, then jerk upwards, and
+the door will open. Don’t try to enter when anyone is looking.
+Directly you get it, tear off this label and burn it. Then pass the
+chain about your waist, underneath your dress, and snap the padlock.
+If you lose the key, or let it go for a moment from your possession,
+may the gods burn up the marrow in your bones. And they will.”
 
 
 “That’s cheerful reading,” I observed, when I had read the label to an
@@ -2039,8 +2038,8 @@ The only thing left in the box was an envelope. When I took it out I
 found that on it this was written:
 
 
- “This envelope is for Mary Blyth, and is not to be opened by her
- till she is inside 84, Camford Street.”
+“This envelope is for Mary Blyth, and is not to be opened by her
+till she is inside 84, Camford Street.”
 
 
 I showed it to Mr. Paine, who was copying the label.
@@ -2086,7 +2085,7 @@ eager eyes; as pretty a picture as you could wish to see.
 “Done!” We shook hands upon it. “I only hope you won’t have too much
 romance before you’ve been my companion long.”
 
-“No fear of that! The more there is the more I’ll like it.”
+“No fear of that! The more there is the more I’ll like it”
 
 I was not so certain. She spoke as if she were sure of herself. But,
 for my part, I felt that it remained to be seen. I went on:
@@ -2432,7 +2431,7 @@ She turned the bangle over.
 
 Taking the bracelet from her I eyed it closely. There was no mistaking
 the likeness; to one end was attached the very double of that painted
-little horror. Emily criticised it as she leant over my shoulder.
+little horror Emily criticised it as she leant over my shoulder.
 
 “It looks as if it were meant for a man who mostly runs to head. And
 what a head it is! Look at his beard, it reaches to what may be meant
@@ -2756,7 +2755,7 @@ said upon the other side.
 
 “I’m sure he’ll be punctual to-night, he’ll be so anxious. And you
 know sometimes he can get off a little earlier if he makes an effort.
-You see if he isn’t there at half-past eight. I’ll just speak to him,
+You see if he isn’t there at half-past eight I’ll just speak to him,
 then start off back at once. He’ll come with us, we shall be back here
 before nine, and then he’ll leave us at the door.”
 
@@ -3229,7 +3228,7 @@ but I hardly think it was altogether flattering to the force, which
 was ungrateful on her part. “I don’t think they’ve hurt me. I believe
 it was the keys they were after, though they’ve left them both behind.
 Perhaps that was because they hadn’t time to properly search for
-them.” She was feeling in her pocket. “But they have taken Uncle
+them.” She was feeling in her pocket “But they have taken Uncle
 Benjamin’s letter--the one in which he told us how to get in at the
 back door.”
 
@@ -4558,7 +4557,7 @@ her words had been received.
 Again there was malice in her tone. She passed her hand two or three
 times in front of Pollie’s face. “Now she’ll have no evil dreams. It
 is funny it should have been given to her; very funny. It should have
-been given to you; you are different. But it is like that: things
+been given to you; you are different. But it is like that things
 happen; the world is crooked.”
 
 She had returned towards me.
@@ -5103,7 +5102,7 @@ or we shall quarrel; and, even if things are as bad as you seem to
 think, I don’t see how you’ll be better off for that. Light a match,
 and keep on lighting one till I tell you to stop.”
 
-She ordered me as if I were a servant: I obeyed because I could not
+She ordered, me as if I were a servant: I obeyed because I could not
 see my way to refuse. In the match-light she marched to the
 mantelpiece.
 
@@ -5386,7 +5385,7 @@ bowl downwards.
 “What’s he done?”
 
 “Done?” The fellow shrugged his shoulders. “He ain’t done nothing so
-far as I knows on; what should he ’ave done? They’re only ’aving a
+far as I knows on; what should he ’ave done? They’re ’only ’aving a
 bit o’ fun.”
 
 It was fun of a peculiar sort; humorous from the Commercial Road point
@@ -5649,7 +5648,7 @@ client with indifferent scorn.
 Cogitating such matters, I had been indulging in what is a habit of
 mine; pacing, with my hands in my pockets, up and down the room.
 Returning to the table, I prepared to subject the supposititious will
-to a still more minute examination. It was not till I stretched out my
+to a still mote minute examination. It was not till I stretched out my
 hand that I noticed that, in the centre of the sheet of blue foolscap
 on which it was inscribed, was--the God of Fortune, the doll in
 miniature which, once already, I had ejected from a similar position.
@@ -5683,7 +5682,7 @@ occasion he has given me just that help and advice I needed. I felt
 assured that I should lose nothing by asking for his opinion on the
 curious case of Mr. Batters’ will.
 
-When, however, I reached his chambers the clerk told me he was out,
+When, however, I reached his chamber the clerk told me he was out,
 engaged in court. I left word that I would return later in the day.
 Having nothing on hand of pressing importance, I felt that I could
 hardly employ the interval better than by finding out all that I could
@@ -5703,7 +5702,7 @@ then certainly of an unsavoury district. Its surroundings,
 residentially speaking, were about as undesirable as they could have
 been. Camford Street itself was long, dreary, out-at-elbows, old
 enough to look as if it would be improved by being rebuilt. Painters,
-whitewashers, people of that kind, had not been down that way for
+whitewashes, people of that kind, had not been down that way for
 years; that was obvious from the fronts of the houses. Buildings
 stretched from end to end in one continuous depressing row.
 Half-a-dozen houses, then a shop; half-a-dozen more, and a blacking
@@ -5783,7 +5782,7 @@ lived all alone; seemed to know no one; no one ever came to see him.
 He never even had any letters; because, afterwards, the postman told
 me so with his own lips; he said he’d never known of his having a
 letter all the time he was in this district. Sometimes nothing would
-be seen of him for three weeks together. Whether he went away or
+be been of him for three weeks together. Whether he went away or
 simply shut himself up indoors I never could make out. He was the
 least talkative old chap I ever came across. When you asked him a
 question which he didn’t want to answer, which was pretty well always,
@@ -6161,9 +6160,9 @@ to me? Did you hear my name?”
 from me?”
 
 “Taken her from you? I don’t understand. I understood that _The Flying
-Scud_ was the property of Messrs. ----”
+Scud_ was the property of Messrs.----”
 
-“Staple, Wainwright and Friscoe; that’s so. That’s the name and title
+“Staple, Wainright and Friscoe; that’s so. That’s the name and title
 of the firm; they’re the owners. But I was in command of her the last
 three voyages; and when I brought her home I was hoping it was for the
 last time.”
@@ -6206,7 +6205,7 @@ Flying Scud_ have treated you?”
 
 “Not a bit of it; nothing of the kind. The only person I complain of
 is--we’ll say a party. If I got that, we’ll say, party, alone in a
-nice quiet little spot for about ten minutes, after that time I
+nice quiet little spot for about ten minutes, after; that time I
 wouldn’t complain of him. The complaint would be on the other foot.”
 
 “Then do you wish me to assist you in a scheme of assault and
@@ -7003,7 +7002,7 @@ Hasn’t it turned white?”
 
 “It certainly hasn’t. It’s lovely hair.”
 
-“Lovely----?” She stopped, to look at me; seeing something in my
+“Lovely?----” She stopped, to look at me; seeing something in my
 countenance--she alone knew what it was--which made her put her hands
 up to her face, and burst again into tears. “Oh, Mr. Paine!”
 
@@ -8264,7 +8263,7 @@ send a second boat in search of the first, and take command of it
 myself, boat No. 1 returned. It was greeted with language which might
 be described as hearty. They had had some luck, brought something in
 the victual line. Without any reference to my authority a raid was
-made on what they had brought. I said nothing, not caring what they
+made on what they had brought I said nothing, not caring what they
 did. If they wanted to keep themselves alive, what did it matter to
 me?
 
@@ -8766,7 +8765,7 @@ reminded me too much of the penny-in-the-slot figures whose limbs are
 set in motion by the insertion of a coin. The slight awe which I had
 felt for the figures vanished for good and all.
 
-“That’s enough of it,” I observed. “I like them better when they’re
+“That’s enough of it,” I observed “I like them better when they’re
 still. Would whoever’s pulling the strings mind taking a rest?”
 
 I had a sort of a kind of an idea that by someone or other my remark
@@ -9132,10 +9131,10 @@ Luke and Rudd shouldered the palanquin; the second in front, the first
 behind--Luke taking up his position in the rear, so that he might the
 more easily, if necessary, hold communication with its occupant.
 
-The procession started. The girl was its guide, now in advance, now at
+The procession started. The girl was its guide, now in advance, how at
 the palanquin side holding converse with her father. I gathered from
 what I heard that he was not in the sweetest temper. Luke and Rudd
-were not practised bearers. The way was difficult. The light trying.
+were not practised beards. The way was difficult. The light trying.
 Now and then one or the other would stumble. The palanquin was jolted.
 From its interior issued a curse which, if not loud, was deep and
 strong.
@@ -9593,8 +9592,8 @@ almost before I knew I found myself on the other side of the cabin
 door.
 
 I staggered up on deck. The night air did me good. I drew great
-breaths. The giddiness passed. I began to ask myself what could have
-caused it. Had Mr. Batters been practising a little hocus pocus?
+breaths. The giddiness passed. I begin to ask myself what could have
+caused it. Had Mr. Batters been practising a little hocus-pocus?
 Playing up to the part of the Great Joss? If I had been sure, I would
 have put the ship about right there and then. Back he should have
 gone, to play the part out to the end.
@@ -9605,7 +9604,7 @@ Luke hailed me.
 should like a wink of sleep.”
 
 “You may. A word with you before you go. You got me into this
-business. I’m not sure I thank you. What do you know about this man
+business. I’m hot sure I thank you. What do you know about this man
 Batters?”
 
 He looked up at the stars, as if for an answer to my question.
@@ -10717,7 +10716,7 @@ Rudd called one of the workmen in to consult with him. They sounded
 the door, they sounded the wall, and concluded that the shortest way
 into the room was through the wall. So soon the house was being
 knocked to pieces before our eyes. There was sheet iron on the other
-side of that wall. But they were through it in what seemed no time. And
+side that wall. But they were through it in what seemed no time. And
 there was a great hole, large enough to admit of the passage of a man.
 
 And on the other side of this hole stood Susie.
@@ -10936,7 +10935,7 @@ have put on immortality before his time. It simply says:
  WHO,
  AFTER A LIFE OF VARIED ADVENTURE
  IN DIFFERENT PARTS OF THE WORLD,
- SLEEPS WELL.”
+ SLEEPS WELL.
 
 We will hope that it is so.
 
@@ -10951,15 +10950,11 @@ Alterations to the text:
 
 Change several instances of _aint_ to _ain’t_, and _dont_ to _don’t_.
 
-Some punctuation corrections.
-
 [Chapter II]
 
 Change “to be as old as _Methusaleh_” to _Methuselah_.
 
 [Chapter IV]
-
-“it's nothing, Buck up, old girl.” change first comma to a period.
 
 “broke into stammering _speeh_” to _speech_.
 
@@ -10993,17 +10988,11 @@ Change “to be as old as _Methusaleh_” to _Methuselah_.
 
 [Chapter XVII]
 
-“They’re ’only ’aving a bit o’ fun” delete the apostrophe attached
-to _only_.
-
 “was it, after after all, his serious” delete one _after_.
 
 “Since nearly a month _elasped_” to _elapsed_.
 
 [Chapter XX]
-
-“treatment than _Messrs_ Staple, _Wainright_ and Friscoe” to _Messrs._
-and _Wainwright_, respectively.
 
 “_Dantily_ fashioned, curves” to _Daintily_.
 
@@ -11017,10 +11006,10 @@ and _Wainwright_, respectively.
 
 “What’s _Captian_ Lander” to _Captain_.
 
-[Chapter XXXIII]
+Also, minor punctuation corrections.
 
-“There was sheet iron on the other side that wall” add _of_ after
-_side_.
+Note: minor spelling and hypenization inconsistencies have been left
+as is.
 
 [End of Text]
 
